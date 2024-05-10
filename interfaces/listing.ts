@@ -17,7 +17,7 @@ export interface Listing {
   thumbnail_url: null | string;
   medium_url:  string;
   picture_url: Pictureurl | null;
-  xl_picture_url: null | string;
+  xl_picture_url:  string;
   host_id: string;
   host_url: string;
   host_name: string;
